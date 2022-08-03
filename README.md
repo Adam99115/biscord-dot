@@ -10,5 +10,5 @@ Setup:
   DISCORD_TOKEN=xxx.xx.xxx
   OWNER_ID=xx
 
-  1.1 Stocks:
-    1.1.1 Add desired stocks to .env in the format of a JSON string that can be parsed as a list e.g STOCKS='["COL:ASX", "DOW:ASX"] 
+1.1 Stocks:
+1.1.1 Add desired stocks to .env in the format of a JSON string that can be parsed as a list e.g STOCKS='["COL:ASX", "DOW:ASX"] 
