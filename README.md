@@ -6,9 +6,9 @@ Current Features:
   #Note This functionality will be transitioned to a user base and likely local db rather than just storing host id and sending prices to the host.
 
 Setup:
-1. Specify correct ID, Tokens in .env as follows:
+1. Specify correct ID, Tokens in .env as follows:\n
   DISCORD_TOKEN=xxx.xx.xxx
   OWNER_ID=xx
 
-1.1 Stocks:
+1.1 Stocks:\n
 1.1.1 Add desired stocks to .env in the format of a JSON string that can be parsed as a list e.g STOCKS='["COL:ASX", "DOW:ASX"] 
